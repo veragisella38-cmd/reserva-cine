@@ -1,7 +1,7 @@
 # Reserva de un asiento en sala de cine
 
 ## Nombre del estudiante
-Kerly
+Kerly Zambrano
 
 ## Objetivo
 Crear un programa en Python que permita reservar un asiento en una sala de cine de 3 filas por 4 columnas. El programa solicita la fila y la columna, registra la reserva y muestra el estado completo de la sala.
